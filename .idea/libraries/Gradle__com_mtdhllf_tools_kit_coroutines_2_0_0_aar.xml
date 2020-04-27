@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mtdhllf.tools:kit-coroutines:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47e114fe908ee01fa759efb9686d59c9/jetified-kit-coroutines-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47e114fe908ee01fa759efb9686d59c9/jetified-kit-coroutines-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mtdhllf.tools/kit-coroutines/2.0.0/78ed31736d8e1f167ef0e34725cae2ff1e1d585d/kit-coroutines-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mtdhllf.tools/kit-coroutines/2.0.0/e0165efa0132275bb3e695242dd02570a4ed4f7a/kit-coroutines-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
